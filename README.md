@@ -1,6 +1,5 @@
-# my_calculator
-
-A new Flutter project.
+# myFlutter_calculator
+all its functionalities working
 
 ## Getting Started
 
